@@ -67,6 +67,7 @@
 			    </div>				
 			</div>			
 		</div>
+<!--
 		<div class="row">
 			<div class="col-12">
 				<h3 class="text-center">Comments</h3>
@@ -84,6 +85,7 @@
 				</c:forEach>
 			</div>
 		</div>
+-->
 	</div>
 </body>
 </html>
